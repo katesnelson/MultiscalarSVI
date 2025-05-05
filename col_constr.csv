@@ -1,0 +1,38 @@
+﻿Social Dimension,Variable Type,ACS 2012 5yr Block-Group Estimates Variable/s Short Name,Variable Normalization
+Age,Median Age,B01002e1,None
+,Age Under 5 Years,B01001e3 + B01001e27,Total Population (B01003e1)
+,Age Over 65 Years,B09020e1,Total Population (B01003e1)
+Gender,Female,B01001e26,Total Population (B01003e1)
+,"Female Civilian Employed, Age 16 and Up",C24010e38,"Total Civilian Employed, Age 16 and Up (C24010e1)"
+Race/Ethnicity,African American Alone,B02001e3,Total Population (B01003e1)
+,Some Other Race/Races,B02001e4+B02001e5+ B02001e6 + B02001e7+ B02001e8,Total Population (B01003e1)
+,Hispanic or Latino,B03003e3,Total Population (B01003e1)
+Employment,"Unemployed In Labor Force, Age 16 and Up",B23025e5,Total Civilian Labor Force (B23025e2)
+,"Participating Civilian Labor Force, Age 16 and Up",B23025e2,"Total Population, Age 16 and Up (B23025e1)"
+Occupation,Service Workers,C24010e19 + C24010e55,Total Civilian Labor Force (C24010e1)
+,"Natural Resources, Construction, Maintenance Workers",C24010e30 + C24010e66,Total Civilian Labor Force (C24010e1)
+,"Production, Transportation, Material Moving Workers",C24010e34 + C24010e70,Total Civilian Labor Force (C24010e1)
+Medical Services,Healthcare Workers,C24010e16 + C24010e20 + C240101e52 + C240101e56,Total Population (B01003e1)
+,Number of Hospitals,,Total Population (B01003e1)
+Family Structure,Population in Occupied Housing Units,B25008e1,Total Occupied Housing Units (B25007e1)
+,"Female Householder, No Husband Present",B09002e15,Total Households with Children (B09002e1)
+Housing Quality,Number of Mobile Homes,,Total Housing Units (B25001e1)
+Renters,Renter-Occupied Housing Units,B25056e1,Total Occupied Housing Units (B25007e1)
+,Median Gross Rent,B25064e1,None
+Education,Over Age 25 with No High School Diploma,B15003e16+B15003e15+B15003e14+B15003e13+B15003e12+B15003e11+B15003e10+B15003e9+B15003e8+B15003e7+B15003e6+B15003e5+B15003e4+B15003e3+B15003e2,Population Over Age 25 (B15003e1)
+Special Needs,Over Age 65 in Group Quarters,B09020e21,Population Over Age 65 (B09020e1)
+,"With a Disability, Age 16-64 ",C23023e3 + C23023e14,Population Age 16-64 (C23023e1)
+,Population in Group Quarters,B09019e38,Total Population (B01003e1)
+Social Dependence,Households with Social Security Income,B19055e2,Total Households (B16002e1)
+,Households Receiving Food Stamps/ SNAP in Past 12 Months,B22010e2,Total Households (B16002e1)
+Immigrants,Households Where No One Age 14 or Older Speaks English Only or English “Very Well”,C16002e4 + C16002e7 + C16002e10 + C16002e13,Total Households (C16002e1)
+Wealth and Income,Per Capita Income (2012 Adjusted $),B19301e1,None
+,"Household Income > $100,000",B19001e14 + B19001e15 + B19001e16 + B19001e17,Total Households (B16002e1)
+,Population Below Poverty Level in the Past 12 Months,B17021e2,Total Population (B01003e1)
+,Median Home Value,B25077e1,None
+,"Owner Occupied Housing Units with Value < $100,000 ",B25075e2 + B25075e3 +B25075e4+B25075e5+B25075e6+B25075e7+ B25075e8 +B25075e9+ B25075e10 +B25075e11 +B25075e12+ B25075e13+ B25075e14,Total Owner Occupied Housing Units (B25075e1)
+,"Owner Occupied Housing Units with Value $100,000 - $200,000",B25075e15+B25075e16+B25075e17+ B25075e18,Total Owner Occupied Housing Units (B25075e1)
+,"Owner Occupied Housing Units with Value > $200,000",B25075e19+B25075e20+B25075e21+ B25075e22+B25075e23+B25075e24+ B25075e25,Total Owner Occupied Housing Units (B25075e1)
+Transportation,"Population Using Public Transportation to Get to Work, Age 16 and Over",B08134e61,Total Worker Population (B08134e1)
+,Occupied Housing Units with No Vehicle Available,B25044e3 + B25044e10,Total Occupied Housing Units (B25007e1)
+Rural,Land in Farms/Rural Use,,Total Population (B01003e1) 
